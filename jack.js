@@ -1,0 +1,1 @@
+//un juego en elq ue cojes cartas aleatoriamente y si te pasas de 21 pierdes

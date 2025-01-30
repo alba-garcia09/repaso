@@ -28,3 +28,5 @@ function board(columns, rows) {
 
 const myBoard = board(5, 3); // 5 columnas, 3 filas
 console.log(myBoard);
+
+
